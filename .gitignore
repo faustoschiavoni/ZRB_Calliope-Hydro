@@ -1,0 +1,9 @@
+*.pyc
+*.csv
+*.json
+*.idea
+.idea/*
+__pycache__
+
+prove.py
+venv
